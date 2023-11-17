@@ -1,0 +1,217 @@
+.MuiInputBase-input:focus
+{
+    --tw-ring-color: transparent !important;
+}
+
+
+.emoFont
+{
+    font-family: 'Titillium Web';
+    font-weight:bold;
+}
+
+.appThemeBackgroundColor
+{
+    background-color: #000000;
+}
+
+.appThemeBackgroundColor1
+{
+    background-color: #2f2d2d;
+}
+
+.appThemeBackgroundColor2
+{
+    background-color: #1bf17b;
+}
+
+.appThemeBackgroundColorPrincipal2
+{
+    background-color: #1db05f;
+}
+
+.appThemeBackgroundColor3
+{
+    background-color: #ffffff;
+}
+
+.appThemeBackgroundColor4
+{
+    background-color: #928a8a;
+}
+
+.appThemeBackgroundColor5
+{
+    background-color: #f7faf6;
+}
+
+.appThemeColor
+{
+    color: #000000;
+}
+
+.appThemeColor1
+{
+    color: #2f2d2d;
+}
+
+.appThemeColor2
+{
+    color: #1bf17b;
+    /*color: #38e910;*/
+}
+
+.appThemeColorPrincipal2
+{
+    color: #1db05f;
+    /*color: #38e910;*/
+}
+
+
+
+.appThemeColor3
+{
+    color: #ffffff;
+}
+
+.appThemeColor4
+{
+    color: #cdc3c3;
+}
+
+.appThemeColorHover:hover
+{
+    color: #11d96a;
+}
+
+.appThemeColorHover2:hover
+{
+    color: #1db05f;
+}
+
+
+.appThemeColorSubHover2:hover
+{
+    color: #c4ffde;
+}
+
+
+.appThemeBackgroundColorSubHoverPrincipal:hover
+{
+    background-color: #1bf17b
+        ;
+}
+
+.appThemeBackgroundColorSubHoverPrincipal2:hover
+{
+    background-color: #1db05f;
+}
+
+.appThemeBackgroundColorSubHover:hover
+{
+    background-color: #2f2d2d;
+}
+
+.appThemeColorSubHover3:hover
+{
+    color: #ffffff;
+}
+
+.appThemeColorInfo
+{
+    color: #505a77;
+}
+
+.appThemeBorderColor
+{
+    border: 1px solid #1bf17b;
+}
+
+.appThemeBorderColor2
+{
+    border: 2px solid #1bf17b;
+}
+
+.appThemeBorderColorPrincipal2
+{
+    border: 1px solid #1db05f;
+}
+
+.appThemeBorderColorPrincipal22
+{
+    border: 2px solid #1db05f;;
+}
+
+.appThemeBorderBottom1
+{
+    border-bottom: 1px solid #2f2d2d;
+}
+
+.appThemeBorderBottom12px
+{
+    border-bottom: 2px solid #2f2d2d;
+}
+
+.appThemeBorder2
+{
+    border: 1px solid #1bf17b;
+}
+
+.appThemeBorder22px
+{
+    border: 2px solid #1bf17b;
+}
+
+.appThemeBorderBottom2
+{
+    border-bottom: 1px solid #1bf17b;
+}
+
+.appThemeBorderBottom22px
+{
+    border-bottom: 2px solid #1bf17b;
+}
+
+.appThemeBorderLeft2
+{
+    border-left: 1px solid #1bf17b;
+}
+
+.appThemeBorderLeft22px
+{
+    border-left: 2px solid #1bf17b;
+}
+
+.appThemeBorderBottom3
+{
+    border-bottom: 1px solid #ffffff;
+}
+
+.appThemeBorderBottom32px
+{
+    border-bottom: 2px solid #ffffff;
+}
+
+.appThemeBorderLeft3
+{
+    border-left: 1px solid #ffffff;
+}
+
+.appThemeBorderLeft32px
+{
+    border-left: 2px solid #ffffff;
+}
+
+.appThemeBorderSubHoverWhite:hover
+{
+    border: 1px solid #ffffff;
+}
+
+.appThemeBorderSubHoverWhite2px:hover
+{
+    border: 2px solid #ffffff;
+}
+.appThemeBorderSubHoverWhite:hover
+{
+    border: 2px solid #ffffff;
+}
